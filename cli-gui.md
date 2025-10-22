@@ -127,6 +127,8 @@ C:\Program Files\MySQL\MySQL Server 8.4\bin
   
   - VSCode 
     - https://code.visualstudio.com
+  - IntelliJ `Community`
+    - https://www.jetbrains.com/idea/download
   - Postman 
     - https://www.postman.com
   - Dbeaver `Community`

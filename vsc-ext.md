@@ -7,7 +7,7 @@ code --install-extension <publisher>.<name>
 
 Syntax
 ```bash
-aaron-bond.better-comments 
+aaron-bond.better-comments
 oderwat.indent-rainbow
 esbenp.prettier-vscode
 usernamehw.errorlens
@@ -43,24 +43,6 @@ Golang
 golang.go
 ```
 
-Java
-```bash
-redhat.java
-redhat.vscode-microprofile
-redhat.vscode-quarkus
-redhat.vscode-xml
-vmware.vscode-boot-dev-pack
-vmware.vscode-spring-boot
-vscjava.vscode-gradle
-vscjava.vscode-java-debug
-vscjava.vscode-java-dependency
-vscjava.vscode-java-pack
-vscjava.vscode-java-test
-vscjava.vscode-maven
-vscjava.vscode-spring-boot-dashboard
-vscjava.vscode-spring-initializr
-```
-
 Python
 ```bash
 ms-python.autopep8
@@ -76,7 +58,6 @@ Infra / CICD
 docker.docker
 hashicorp.terraform
 github.vscode-github-actions
-ms-azure-devops.azure-pipelines
 ms-azuretools.vscode-containers
 ms-azuretools.vscode-docker
 ms-kubernetes-tools.vscode-kubernetes-tools
@@ -87,10 +68,6 @@ ms-vscode-remote.remote-wsl
 ms-vscode.powershell
 ms-vscode.remote-explorer
 redhat.vscode-yaml
-splunk.splunk
-arcsector.vscode-splunk-search-linter
-arcsector.vscode-splunk-search-syntax
-kristophbarbour.splunk-linter
 ```
 
 Sec
