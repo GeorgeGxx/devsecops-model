@@ -9,7 +9,7 @@
   - https://www.warp.dev
 
 
-`Chocolatey` (Run as Administrator just for Install)
+`Chocolatey` (PWSH > Run as Administrator just for Install)
 
 - https://chocolatey.org/install
 
@@ -35,15 +35,27 @@ choco upgrade -y peazip
 
 - https://cloud.google.com/sdk/docs/install
 
-## Pip
+## Pip (Install with Powershell > Run as Administrator)
 
-### Checkov (PaC for IaC)
+### Checkov (PaC for IaC) - CICD Available in GitHub Marketplace
 
 `Use example`
 ```bash
 pip install checkov    
 pip install -U checkov
 checkov -d . //<folder_path/project_name>
+```
+
+### Boto 3 (AWS SDK for Python)
+
+```bash
+pip install boto3
+```
+
+### Google Cloud Compute (SDK)
+
+```bash
+pip install google-cloud-compute
 ```
 
 ## WSL2 Ubuntu
@@ -127,6 +139,8 @@ C:\Program Files\MySQL\MySQL Server 8.4\bin
   
   - VSCode 
     - https://code.visualstudio.com
+  - IntelliJ `Community`
+    - https://www.jetbrains.com/idea/download
   - Postman 
     - https://www.postman.com
   - Dbeaver `Community`
